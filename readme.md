@@ -11,4 +11,6 @@ I don't even think, I'll ever use it. But it's worth the effort to me.
 
 ## it is a work in progress
 - I found a way to get the todolist string in the localStorage
-- Still looking for a way to get it out and on to the webpage decently. (03-02-2026)
+- Still looking for a way to get it out and on to the webpage decently. 
+- I got it out to the page, but there now is a problem with removing a paragraph because
+I add buttons after the page has rendered. (05/02/2026)
